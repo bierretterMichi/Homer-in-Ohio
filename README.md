@@ -2,7 +2,6 @@
 
 Ein Projekt von Mohammad Rezaei und Michael Markwart
 
-
 [Einführung](#einf)
 [1. Spielkonzept](#1)
 [2. Blogeinträge](#2)
