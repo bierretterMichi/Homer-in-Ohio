@@ -16,7 +16,7 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
-
+https://cdn.discordapp.com/attachments/891302603344990268/1047581168326955098/20221130_1931323.mp4
 
 ## <a name="1"></a>Blogeinträge
 
@@ -26,4 +26,10 @@ Am 22.8.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und ic
 Nach einigen Überlegung haben wir uns für das Spiel entschieden. 
 Danach haben wir uns die verschiedenen Programme angeschaut, um das Richtige zu finden, mit dem wir gut arbeiten können. Dabei kamen Snap, StarLogoTNG und Greenfoot in Frage.
 
-### 
+### 25.8.2022
+
+
+
+
+
+
