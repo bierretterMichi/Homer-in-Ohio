@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb
 - [3. Fazit](#3)
 - [4. Eigenständigkeitserklärung](#4)
 
-## Einführung<a name="einf"></a>
+## <a name="einf"></a>Einführung
 
 Zuhause gibt es kein Spiel, das du noch nicht durchgespielt hast, und du hast Langeweile? Dann haben wir genau das richtige Spiel für dich: „Homer in Ohio“.             Hilf Homer durch ein Stadtlabyrinth mit zahlreichen und gefährlichen Hindernissen, um seine Frau Marge aus den Flammen zu retten.
 
