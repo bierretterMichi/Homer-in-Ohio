@@ -25,18 +25,17 @@ Viel Spaß und Erfolg!
 
 | Datum | Tätigkeit |
 | ------ | ------ |
-| 22.8.2022 | Am 22.8.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und Mohammad bis zum Ende des Projektes zusammenarbeiten. In der ersten Doppelstunde sammelten wir einige Ideen zu unserem Projekt. Die erste Idee war, einen Roboter mit Hilfe von Lego-Bausätzen zu bauen und diesen schließlich zu programmieren. Dabei hätte er ein Muster auf den Boden malen sollen.                                                                                                   Die zweite Idee war es ein Spiel zu programmieren. Die grobe Idee war, dass es einen Agenten gibt, der durch ein Labyrinth geht und dabei Münzen sammelt und bis zum Ziel läuft. |
-
-
+| 22.8.2022 | Am 22.8.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und Mohammad bis zum Ende des Projektes zusammenarbeiten. In der ersten Doppelstunde sammelten wir einige Ideen zu unserem Projekt. Die erste Idee war, einen Roboter mit Hilfe von Lego-Bausätzen zu bauen und diesen schließlich zu programmieren. Dabei hätte er ein Muster auf den Boden malen sollen.                                                                                                   Die zweite Idee war es ein Spiel zu programmieren. Die grobe Idee war, dass es einen Agenten gibt, der durch ein Labyrinth geht und dabei Münzen sammelt und bis zum Ziel läuft.
 Nach einigen Überlegung haben wir uns für das Spiel entschieden. 
-Danach haben wir uns die verschiedenen Programme angeschaut, um das Richtige zu finden, mit dem wir gut arbeiten können. Dabei kamen Snap, StarLogoTNG und Greenfoot in Frage.
+Danach haben wir uns die verschiedenen Programme angeschaut, um das Richtige zu finden, mit dem wir gut arbeiten können. Dabei kamen Snap, StarLogoTNG und Greenfoot in Frage.|
 
-### 25.8.2022
-Am 25.8.2022 war Mohammad nicht anwesend. Währenddessen hat Michael sich in verschiedene Programme eingearbeitet. Später hat er sich mit den Lernaktivitäten für StarLogoTNG beschäftigt.
 
-### 29.8.2022
-Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während Mohammads Abwesenheit hat er eine Skizze von dem Labyrinth gezeichnet. In der ersten Stunde haben wir einen genauen Plan vom Spiel aufgestellt.                                                            Dabei sollten es zwei Agenten sein, die bis zum Ziel Münzen sammeln und je mehr Münzen sie sammeln, desto schneller werden sie. Auf ihrem Weg sollten andere Agenten sie aufhalten. Im Falle einer Kollision soll das Spiel neugestartet werden. 
-In der zweiten Stunde haben wir versucht unsere Agenten, Marge und Homer, so zu programmieren, dass man sie manuell steuern kann. 
+
+
+| 25.8.2022 | Am 25.8.2022 war Mohammad nicht anwesend. Währenddessen hat Michael sich in verschiedene Programme eingearbeitet. Später hat er sich mit den Lernaktivitäten für StarLogoTNG beschäftigt. |
+
+| 29.8.2022 | Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während Mohammads Abwesenheit hat er eine Skizze von dem Labyrinth gezeichnet. In der ersten Stunde haben wir einen genauen Plan vom Spiel aufgestellt.                                                            Dabei sollten es zwei Agenten sein, die bis zum Ziel Münzen sammeln und je mehr Münzen sie sammeln, desto schneller werden sie. Auf ihrem Weg sollten andere Agenten sie aufhalten. Im Falle einer Kollision soll das Spiel neugestartet werden. 
+In der zweiten Stunde haben wir versucht unsere Agenten, Marge und Homer, so zu programmieren, dass man sie manuell steuern kann. |
 
 ### 5.9.2022
 Am 5.9.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
