@@ -85,6 +85,8 @@ Durch unsere grundsätzliche Arbeitsweise hatten wir immer wieder motivierende E
 Das Beste ist, dass unser Projekt abgeschlossen ist und wir etwas Neues gelernt haben.
 
 
+## <a name="4"></a>Eigenständigkeitserklärung
 
+Hiermit erklären wir, Michael Markwart und Mohammad Rezaei, dass die von uns vorgelegte Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt haben.
 
-
+Ahrensburg, den 01.12.2022
