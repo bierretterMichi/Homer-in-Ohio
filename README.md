@@ -10,7 +10,8 @@ https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb
 - [3. Fazit](#3)
 - [4. Eigenständigkeitserklärung](#4)
 
-## Einführung<a name="einf"></a> 
+## Einführung<a name="einf"></a>
+
 Zuhause gibt es kein Spiel, das du noch nicht durchgespielt hast, und du hast Langeweile? Dann haben wir genau das richtige Spiel für dich: „Homer in Ohio“.             Hilf Homer durch ein Stadtlabyrinth mit zahlreichen und gefährlichen Hindernissen, um seine Frau Marge aus den Flammen zu retten.
 
 Zuerst musst du den rotierenden Sonic   überwinden und später werden drei sich bewegende gigantische Würfel versuchen deinen Weg zu versperren. Wenn du sie überwunden hast, wirst du mit zwei Wegen konfrontiert; du musst dich   entscheiden, ob es rechts oder links weitergeht. Ein Weg führt in eine Sackgasse, wo dich ein blutrünstiger Clown erwartet, der dich aus dem Spiel eliminieren will.     
@@ -75,6 +76,15 @@ Am 21.11.2022 überlegten wir uns, dass Marge und Homer die Paintball-Funktion e
 
 ### 28.11.2022
 Am 28.11.2022 lösten wir das, zuerst hoffnungslose, Problem mit der Begrenzung der Monster. Das Problem bestand darin, dass die Tore sich überlagerten und das Spiel den Code für die Drehbewegung der Monster zweimal ausführte, sodass sie einfach aus dem Feld liefen. Somit kann man sagen, dass dies ein Fehler auf Seiten StarLogo’s war. Außerdem haben wir zwei weitere Info-Agenten erstellt, um den Spieler durch das Spiel zu führen. Schließlich haben wir weitere Verfeinerungen durchgeführt und den Code verschönert.
+
+
+## <a name="3"></a>Fazit
+
+Am Anfang wussten wir nicht, wie man Spiele programmiert. Im Internet gibt es unzählige komplett fertig durchgeführte Projekte und wir wollten nicht einfach irgendetwas kopieren. Eine eigene Idee musste her. Nach langer Ideensuche kam uns die Idee dieses Spieles: „Homer im Ohio“.                                             Obwohl Michael und Mohammad vorher keine Erfahrung in Informatik hatten, haben wir uns durch das Projekt gearbeitet. Es gab Momente, wo wir nicht mehr weiterkommen konnten aber es gab auch Momente, wo alles reibungslos funktionierte. Die Probleme konnten wir meist mit einfachen und kreativen Lösungsansätzen lösen. Insgesamt lief die Arbeit gut und in den Stunden arbeiteten wir immer zusammen. So können wir beide alles verstehen. Der Nachteil dieser Arbeitsweise ist, dass sie viel Zeit in Anspruch nimmt und daher weniger effizient ist. 
+Durch unsere grundsätzliche Arbeitsweise hatten wir immer wieder motivierende Erfolgsmomente. Das macht die ganze Arbeit viel angenehmer und trieb uns voran. So konnten wir während des Projektes viel Neues lernen und Probleme selbstständig lösen, was den Informatikunterricht interessanter machte. Obwohl der anfängliche Plan anders als das Endprodukt aussah, sind wir trotzdem sehr zufrieden. 
+Das Beste ist, dass unser Projekt abgeschlossen ist und wir etwas Neues gelernt haben.
+
+
 
 
 
