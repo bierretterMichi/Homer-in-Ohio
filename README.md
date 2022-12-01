@@ -19,11 +19,29 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
-## Spielobjekte
+## Wichtige Objekte
 
 <details>
-    <summary> Funktionen</summary> 
-
+    <summary> Homer</summary>    
+    
+ </details>   
+<details>
+    <summary> Sonic</summary>    
+    
+ </details>   
+<details>
+    <summary> Die drei Würfel</summary>    
+    
+ </details>      
+<details>
+    <summary> Der verrückte Clown</summary>    
+    
+ </details>   
+ 
+ 
+ 
+ 
+ 
 | Agent | Funktion |
 | ------ | ------ |
 | Homer | Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen. |
@@ -31,30 +49,30 @@ Viel Spaß und Erfolg!
 | Die drei Würfel | Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden. |
 | Der verrückte Clown | Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung und 
 
-</details>
 
-<details>
-    <summary> Code Blöcke</summary> 
 
-| Agent | Code |
-| ------ | ------ |
-| Homer | test |
-
-        
-</details>        
+    
         
 ## <a name="2"></a>Blogeinträge
 
 
+<details>
+    <summary> Stunden</summary>
+    
+| 22.08.2022
+    
+    
+    
+    
+</details>
 
-
-### 22.8.2022
-Am 22.8.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und Mohammad bis zum Ende des Projektes zusammenarbeiten. In der ersten Doppelstunde sammelten wir einige Ideen zu unserem Projekt. Die erste Idee war, einen Roboter mit Hilfe von Lego-Bausätzen zu bauen und diesen schließlich zu programmieren. Dabei hätte er ein Muster auf den Boden malen sollen.
+### 22.08.2022
+Am 22.08.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und Mohammad bis zum Ende des Projektes zusammenarbeiten. In der ersten Doppelstunde sammelten wir einige Ideen zu unserem Projekt. Die erste Idee war, einen Roboter mit Hilfe von Lego-Bausätzen zu bauen und diesen schließlich zu programmieren. Dabei hätte er ein Muster auf den Boden malen sollen.
 Die zweite Idee war es ein Spiel zu programmieren. Die grobe Idee war, dass es einen Agenten gibt, der durch ein Labyrinth geht und dabei Münzen sammelt und bis zum Ziel läuft. Nach einigen Überlegung haben wir uns für das Spiel entschieden. Danach haben wir uns die verschiedenen Programme angeschaut, um das Richtige zu finden, mit dem wir gut arbeiten können. Dabei kamen Snap, StarLogoTNG und Greenfoot in Frage. 
-### 25.8.2022 
-Am 25.8.2022 war Mohammad nicht anwesend. Währenddessen hat Michael sich in verschiedene Programme eingearbeitet. Später hat er sich mit den Lernaktivitäten für StarLogoTNG beschäftigt.
-### 29.8.2022
-Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während Mohammads Abwesenheit hat er eine Skizze von dem Labyrinth gezeichnet. In der ersten Stunde haben wir einen genauen Plan vom Spiel aufgestellt. Dabei sollten es zwei Agenten sein, die bis zum Ziel Münzen sammeln und je mehr Münzen sie sammeln, desto schneller werden sie. Auf ihrem Weg sollten andere Agenten sie aufhalten. Im Falle einer Kollision soll das Spiel neugestartet werden. In der zweiten Stunde haben wir versucht unsere Agenten, Marge und Homer, so zu programmieren, dass man sie manuell steuern kann.
+### 25.08.2022 
+Am 25.08.2022 war Mohammad nicht anwesend. Währenddessen hat Michael sich in verschiedene Programme eingearbeitet. Später hat er sich mit den Lernaktivitäten für StarLogoTNG beschäftigt.
+### 29.08.2022
+Am 29.08.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während Mohammads Abwesenheit hat er eine Skizze von dem Labyrinth gezeichnet. In der ersten Stunde haben wir einen genauen Plan vom Spiel aufgestellt. Dabei sollten es zwei Agenten sein, die bis zum Ziel Münzen sammeln und je mehr Münzen sie sammeln, desto schneller werden sie. Auf ihrem Weg sollten andere Agenten sie aufhalten. Im Falle einer Kollision soll das Spiel neugestartet werden. In der zweiten Stunde haben wir versucht unsere Agenten, Marge und Homer, so zu programmieren, dass man sie manuell steuern kann.
 <details> <summary>Planskizze</summary>
 
     
@@ -66,8 +84,8 @@ Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während M
 
 
 
-### 5.9.2022
-Am 5.9.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
+### 5.09.2022
+Am 5.09.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
 ### 8.9.2022 
 Am 8.9.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen. Die Wände des Labyrinths sollten aus Häusern bestehen. Dies haben wir bis Ende der ersten Informatikstunde geschafft. In der zweiten Stunde riefen wir unseren ersten Agenten, Sonic, der Marge und Homer hindern soll zum Ziel zu kommen, ins Leben. Dabei sollte Sonic schnell um ein Haus rennen und im Falle einer Kollision mit Marge und Homer sollte das Spiel neugestartet werden. Dies stellte sich als leichter heraus als erwartet, da Sonic die eingegebenen Koordinaten zu schnell übernahm, sodass er nicht um das Haus kam. Das lag daran, dass wir zu weit gedacht hatten und am Ende waren es nur zwei Blöcke Code.
 ### 12.9.2022
