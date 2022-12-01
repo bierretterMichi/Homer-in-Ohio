@@ -56,7 +56,7 @@ Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während M
 <details> <summary>Planskizze</summary>
 
     
-    ![image](https://user-images.githubusercontent.com/111492177/205087623-da6c89d0-ccba-4d56-9e67-7b9e9d17882a.png)
+![image](https://user-images.githubusercontent.com/111492177/205087623-da6c89d0-ccba-4d56-9e67-7b9e9d17882a.png)
     
     
     
