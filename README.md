@@ -90,6 +90,10 @@ Am 29.08.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während 
 
 ### <a name="4"></a>05.09.2022
 Am 5.09.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
+<details> <summary>Steuerung</summary>
+    
+![Steuerung](https://user-images.githubusercontent.com/111492177/205107662-9aaeebb6-0458-4974-8319-fee645893445.png)
+</details>
 ### <a name="5"></a>08.09.2022 
 Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen. Die Wände des Labyrinths sollten aus Häusern bestehen. Dies haben wir bis Ende der ersten Informatikstunde geschafft. In der zweiten Stunde riefen wir unseren ersten Agenten, Sonic, der Marge und Homer hindern soll zum Ziel zu kommen, ins Leben. Dabei sollte Sonic schnell um ein Haus rennen und im Falle einer Kollision mit Marge und Homer sollte das Spiel neugestartet werden. Dies stellte sich als leichter heraus als erwartet, da Sonic die eingegebenen Koordinaten zu schnell übernahm, sodass er nicht um das Haus kam. Das lag daran, dass wir zu weit gedacht hatten und am Ende waren es nur zwei Blöcke Code.
 ### <a name="6"></a>12.09.2022
