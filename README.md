@@ -32,7 +32,7 @@ Viel Spaß und Erfolg!
 </details>
 
 <details>
-    <summary> Code Blöcke
+    <summary> Code Blöcke</summary> 
 
 | Agent | Code |
 | ------ | ------ |
