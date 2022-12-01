@@ -5,7 +5,7 @@
 https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb-9723-dcf5b354c669.mp4
 
 - [Einführung](#einf)
-- [1. Spielkonzept](#1)
+- [1. Spielkonzept](#blog)
 - [2. Blogeinträge](#2)
 - [3. Fazit](#3)
 - [4. Eigenständigkeitserklärung](#4)
@@ -57,7 +57,7 @@ Viel Spaß und Erfolg!
 
     
         
-## <a name="2"></a>Blogeinträge
+## <a name="blog"></a>Blogeinträge
 
 
 <details> <summary>Stunden</summary>
