@@ -120,6 +120,7 @@ Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würf
 <details> <summary>Walls</summary>
 
 ![image](https://user-images.githubusercontent.com/111492177/205110731-caf57b95-c0bd-4d47-aa78-a6e10cb6eaa1.png)
+![image](https://user-images.githubusercontent.com/111492177/205127118-77822cef-3457-418d-9cd9-40841e2ff7a2.png)
 
 </details>
 
