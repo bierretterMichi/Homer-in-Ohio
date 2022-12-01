@@ -58,6 +58,9 @@ Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während M
     
     
 </details>
+
+
+
 ### 5.9.2022
 Am 5.9.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
 ### 8.9.2022 
