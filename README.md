@@ -149,6 +149,10 @@ Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und H
 Am 24.10.2022 haben wir weiter am Clown gearbeitet. Jedoch erwies die Smell-Funktion sich als sehr aufwändig und fehlerhaft. Deshalb haben wir uns eine andere Methode überlegt. Die Methode sollte darin bestehen, dass kurz vor der L-Ecke ein paar Grasbüschel auf dem Boden platziert sind. Wenn man über diese Grasbüschel läuft, sollte sich der Clown in Bewegung setzen, was sich als äußerst funktionsfähig herausstellte. Später machten wir uns über das nächste Hindernis Gedanken.
 <details> <summary>Grasbüschelfunktion</summary>
 
+
+https://user-images.githubusercontent.com/111492177/205121123-cb9ee103-9139-4064-adbd-3126f0af93e2.mp4
+
+
 ![image](https://user-images.githubusercontent.com/111492177/205112555-d8270e57-d66b-4677-be81-445f63dc9b42.png)
 </details>
 
