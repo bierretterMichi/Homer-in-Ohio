@@ -38,17 +38,17 @@ Viel Spaß und Erfolg!
     
  </details>   
  <details>
-    <summary> Die zwei Fragen</summary>    
+    <summary> Die zwei Fragen</summary>
 
-| Agent | Funktion |
+</details>   
+
+ 
+ | Agent | Funktion |
 | ------ | ------ |
 | Homer | Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen. |
 | Sonic | Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen. |
 | Die drei Würfel | Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden. |
 | Der verrückte Clown | Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung und |
- </details>
- 
- 
  
  
 
@@ -60,8 +60,7 @@ Viel Spaß und Erfolg!
 ## <a name="2"></a>Blogeinträge
 
 
-<details>
-    <summary> Stunden</summary>
+<details> <summary>Stunden</summary>
 | 22.08.2022 | 25.08.2022 | 29.08.2022 | 05.09.2022 | 08.09.2022 |
 | 12.09.2022 | 19.09.2022 | 19.09.2022 | 22.09.2022 | 06.10.2022 |
 | 24.10.2022 | 03.11.2022 | 07.11.2022 | 14.11.2022 | 17.11.2022 |
