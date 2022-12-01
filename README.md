@@ -127,8 +127,11 @@ Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würf
 ### <a name="8"></a>22.09.2022
 Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
 <details> <summary>Die drei Würfel</summary>
+    
 
-https://user-images.githubusercontent.com/111492177/205116157-0c22c34e-0455-4fd9-b219-cc8bd8647811.mp4
+https://user-images.githubusercontent.com/111492177/205116560-5059c122-3a5b-40a9-82a8-ec33d3b2a9fb.mp4
+
+
 
 </details>
 
