@@ -126,6 +126,13 @@ Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würf
 
 ### <a name="8"></a>22.09.2022
 Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
+<details> <summary>Die drei Würfel</summary>
+
+https://user-images.githubusercontent.com/111492177/205116157-0c22c34e-0455-4fd9-b219-cc8bd8647811.mp4
+
+</details>
+
+
 ### <a name="9"></a>06.10.2022
 Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und Homer die hinderlichen Walls überquert haben, werden sie mit zwei Wegen konfrontiert. Der linke Weg führt in eine Sackgasse. Der Weg bis zur Sackgasse ist L-Förmig, sodass man nicht das Ende sehen kann, wo auf den Spieler ein verrückt gewordener Clown wartet, der herauskommen soll, sobald man um die Ecke läuft, um den Spieler auszuschalten und ihm einen Schrecken zu verleihen. Um dies umzusetzen, versuchten wir mit der Smell-Funktion zu arbeiten. Wenn Marge und Homer einen bestimmten Radius um dem Clown erreichen, sollte er aktiviert werden.
 <details> <summary>Unfunktionsfähige und aufwändige Smellfunktion</summary>
