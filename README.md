@@ -56,8 +56,11 @@ Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während M
 
 <details>
 <summary>Labyrinth-Skizze- hide </summary>
-![image](https://user-images.githubusercontent.com/111492177/205084922-fa2eb2da-244b-45f0-8f4e-ea918274a8be.png)
-</details>
+<br>
+![image](https://user-images.githubusercontent.com/111492177/205085275-6b4810d4-57c1-4f34-8c28-b5476e3c9097.png)
+
+
+    
 ### 5.9.2022
 Am 5.9.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
 ### 8.9.2022 
