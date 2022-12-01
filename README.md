@@ -23,6 +23,7 @@ Viel Spaß und Erfolg!
     <summary> Spielobjekte</summary>
     
 | Agent | Funktion |
+    
 
 
 
