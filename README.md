@@ -37,7 +37,10 @@ Viel Spaß und Erfolg!
     <summary> Der verrückte Clown</summary>    
     
  </details>   
- 
+ <details>
+    <summary> Die zwei Fragen</summary>    
+    
+ </details>
  
  
  
@@ -59,7 +62,10 @@ Viel Spaß und Erfolg!
 <details>
     <summary> Stunden</summary>
     
-| 22.08.2022
+| 22.08.2022 | 25.08.2022 | 29.08.2022 | 05.09.2022 | 08.09.2022 |
+| 12.09.2022 | 19.09.2022 | 19.09.2022 | 22.09.2022 | 06.10.2022 |
+| 24.10.2022 | 03.11.2022 | 07.11.2022 | 14.11.2022 | 17.11.2022 |
+| 21.11.2022 | 28.11.2022 |  |  |  |
     
     
     
@@ -84,16 +90,16 @@ Am 29.08.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während 
 
 
 
-### 5.09.2022
+### 05.09.2022
 Am 5.09.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbeitet. Zudem haben wir es geschafft, dass unsere Agenten zusammenlaufen, statt getrennt. Hierfür setzten wir einfach denselben Startort und dieselbe Steuerung für beide Agenten auf, was sich später jedoch als ein Problem herausstellen sollte.
-### 8.9.2022 
-Am 8.9.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen. Die Wände des Labyrinths sollten aus Häusern bestehen. Dies haben wir bis Ende der ersten Informatikstunde geschafft. In der zweiten Stunde riefen wir unseren ersten Agenten, Sonic, der Marge und Homer hindern soll zum Ziel zu kommen, ins Leben. Dabei sollte Sonic schnell um ein Haus rennen und im Falle einer Kollision mit Marge und Homer sollte das Spiel neugestartet werden. Dies stellte sich als leichter heraus als erwartet, da Sonic die eingegebenen Koordinaten zu schnell übernahm, sodass er nicht um das Haus kam. Das lag daran, dass wir zu weit gedacht hatten und am Ende waren es nur zwei Blöcke Code.
-### 12.9.2022
+### 08.09.2022 
+Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen. Die Wände des Labyrinths sollten aus Häusern bestehen. Dies haben wir bis Ende der ersten Informatikstunde geschafft. In der zweiten Stunde riefen wir unseren ersten Agenten, Sonic, der Marge und Homer hindern soll zum Ziel zu kommen, ins Leben. Dabei sollte Sonic schnell um ein Haus rennen und im Falle einer Kollision mit Marge und Homer sollte das Spiel neugestartet werden. Dies stellte sich als leichter heraus als erwartet, da Sonic die eingegebenen Koordinaten zu schnell übernahm, sodass er nicht um das Haus kam. Das lag daran, dass wir zu weit gedacht hatten und am Ende waren es nur zwei Blöcke Code.
+### 12.09.2022
 Am 12.9.2022 waren wir bis zum Ende der ersten Informatikstunde mit der Programmierung von Sonic fertig. In der zweiten Stunde versuchten wir den Code zu sortieren, damit es übersichtlicher wird.
-### 19.9.2022 
+### 19.09.2022 
 Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würfel) sich auf einer gewissen Strecke hin und her bewegen. Ziel hierbei war es, dass Marge und Homer versuchen sollen hindurchzukommen, ohne die Hindernisse zu berühren. Diese Aufgabe stellte sich ebenfalls als äußerst herausfordernd heraus. Bis Ende der zweiten Stunde waren wir damit beschäftigt.
-### 22.9.2022
-Am 22.9.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
+### 22.09.2022
+Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
 ### 06.10.2022
 Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und Homer die hinderlichen Walls überquert haben, werden sie mit zwei Wegen konfrontiert. Der linke Weg führt in eine Sackgasse. Der Weg bis zur Sackgasse ist L-Förmig, sodass man nicht das Ende sehen kann, wo auf den Spieler ein verrückt gewordener Clown wartet, der herauskommen soll, sobald man um die Ecke läuft, um den Spieler auszuschalten und ihm einen Schrecken zu verleihen. Um dies umzusetzen, versuchten wir mit der Smell-Funktion zu arbeiten. Wenn Marge und Homer einen bestimmten Radius um dem Clown erreichen, sollte er aktiviert werden.
 ### 24.10.2022
