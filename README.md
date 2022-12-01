@@ -165,7 +165,8 @@ Am 07.11.2022 ist der Informatik Unterricht ausgefallen und wir konnten deshalb 
 ### <a name="13"></a>14.11.2022
 Am 14.11.2022 ist uns aufgefallen, dass die zwei Fragen gleichzeitig erscheinen, so dass es schwieriger wird, sie zu lesen. Deshalb änderten wir es insofern, dass die zweite Frage erst beim verschwinden des ersten Tors erscheint. Später haben wir einen begrenzten Raum im Zentrum unseres Labyrinthes erbaut. Dabei haben wir Tore  als Wände zur Begrenzung benutzt. Dort sollen sich zahlreiche Monster aufhalten und sich frei in zufällige Richtungen bewegen. Dies stellte sich als relativ einfach dar, jedoch war hier die Herausforderung in diesem Gebiet zu behalten. Unser erster Lösungsansatz war, dass sie sich, im Falle einer Kollision mit der Wand, um 100-80° Grad drehen und weiterlaufen sollten. Dennoch konnten sie das Gebiet verlassen.
 <details> <summary>Monster im Zentrum</summary>
-![image](https://user-images.githubusercontent.com/111492177/205114961-594f00b0-baf5-4351-9970-2eb541223ef8.png)
+![image](https://user-images.githubusercontent.com/111492177/205127935-f2ef447d-eb08-437e-a9c8-8c713a250936.png)
+
 
 </details>
 
