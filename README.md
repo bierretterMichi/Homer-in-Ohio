@@ -19,17 +19,28 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
+## Spielobjekte
+
 <details>
-    <summary> Spielobjekte</summary> | Agent | Funktion | 
+    <summary> Funktionen</summary> 
 
-
-
+| Agent | Funktion |
+| ------ | ------ |
+| Homer | test |
 
 
 </details>
 
+<details>
+    <summary> Code Blöcke
+
+| Agent | Code |
+| ------ | ------ |
+| Homer | test |
 
 ## <a name="2"></a>Blogeinträge
+
+
 
 
 ### 22.8.2022
