@@ -120,7 +120,6 @@ Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würf
 <details> <summary>Walls</summary>
 
 ![image](https://user-images.githubusercontent.com/111492177/205110731-caf57b95-c0bd-4d47-aa78-a6e10cb6eaa1.png)
-![image](https://user-images.githubusercontent.com/111492177/205127118-77822cef-3457-418d-9cd9-40841e2ff7a2.png)
 
 </details>
 
@@ -131,6 +130,7 @@ Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Bu
     
 
 https://user-images.githubusercontent.com/111492177/205116560-5059c122-3a5b-40a9-82a8-ec33d3b2a9fb.mp4
+![image](https://user-images.githubusercontent.com/111492177/205127364-9ed55362-f559-4d37-9b43-248cf35989e9.png)
 
 
 
