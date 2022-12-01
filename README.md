@@ -19,7 +19,11 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
-
+<details>
+    <summary> Spielobjekte</summary>
+    
+    | Agent | Funktion |
+    | ----- | ------ |
 
 ## <a name="2"></a>Blogeinträge
 
