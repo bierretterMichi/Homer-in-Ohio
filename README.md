@@ -26,8 +26,10 @@ Viel Spaß und Erfolg!
 
 | Agent | Funktion |
 | ------ | ------ |
-| Homer | test |
-
+| Homer | Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen. |
+| Sonic | Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen. |
+| Die drei Würfel | Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden. |
+| Der verrückte Clown | Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung und 
 
 </details>
 
