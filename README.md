@@ -162,10 +162,8 @@ https://user-images.githubusercontent.com/111492177/205121123-cb9ee103-9139-4064
 Am 03.11.2022 haben wir gemerkt, dass die vorher programmierte Funktion von der letzten Stunde nicht gespeichert worden war. Daher verschwendeten wir leider etwas Zeit, um sie wiederherzustellen. Dabei fielen uns ein paar Ideen zur Verbesserung ein. Zum Beispiel, dass der Clown das vorgeschriebene Programm solange wiederholt bis er Marge und Homer aus dem Spiel entfernt. Später haben wir uns überlegt, wie das restliche Labyrinth gebaut werden sollte.
 ### <a name="12"></a>07.11.2022
 Am 07.11.2022 ist der Informatik Unterricht ausgefallen und wir konnten deshalb nur eine Stunde ins Programmieren investieren. Als nächstes Hindernis sollten zwei Tore gebaut und jeweils vor einem Tor sollte eine Frage gestellt werden. Man hat drei Optionen und um die Antwort zu wählen, muss man zu der Option hinlaufen und kollidieren. Wenn man die richtige Antwort wählt, verschwindet das Tor, wenn man aber eine falsche Antwort wählt, muss man das Spiel neu starten.
-<details> <summary>Tor und Fragen</summary>
-    ![image](https://user-images.githubusercontent.com/111492177/205130193-2cce48a0-2da9-4b56-8631-f8061e3b8310.png)
-
-
+<details> <summary>Der Tor und die Fragen</summary>
+    ![image](https://user-images.githubusercontent.com/111492177/205130501-5c8348d4-faf2-4b6c-866f-01152dd0aed1.png)
 
 ### <a name="13"></a>14.11.2022
 Am 14.11.2022 ist uns aufgefallen, dass die zwei Fragen gleichzeitig erscheinen, so dass es schwieriger wird, sie zu lesen. Deshalb änderten wir es insofern, dass die zweite Frage erst beim verschwinden des ersten Tors erscheint. Später haben wir einen begrenzten Raum im Zentrum unseres Labyrinthes erbaut. Dabei haben wir Tore  als Wände zur Begrenzung benutzt. Dort sollen sich zahlreiche Monster aufhalten und sich frei in zufällige Richtungen bewegen. Dies stellte sich als relativ einfach dar, jedoch war hier die Herausforderung in diesem Gebiet zu behalten. Unser erster Lösungsansatz war, dass sie sich, im Falle einer Kollision mit der Wand, um 100-80° Grad drehen und weiterlaufen sollten. Dennoch konnten sie das Gebiet verlassen.
