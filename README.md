@@ -5,10 +5,10 @@
 https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb-9723-dcf5b354c669.mp4
 
 - [Einführung](#einf)
-- [1. Spielkonzept](#blog)
-- [2. Blogeinträge](#2)
-- [3. Fazit](#3)
-- [4. Eigenständigkeitserklärung](#4)
+- [1. Wichtige Objekte](#konzept)
+- [2. Blogeinträge](#blog)
+- [3. Fazit](#fazit)
+- [4. Eigenständigkeitserklärung](#eigenst)
 
 ## <a name="einf"></a>Einführung
 
@@ -19,7 +19,7 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
-## Wichtige Objekte
+## <a name="konzept"></a>Wichtige Objekte
 
 <details>
     <summary> Homer</summary>    
@@ -116,7 +116,7 @@ Am 21.11.2022 überlegten wir uns, dass Marge und Homer die Paintball-Funktion e
 Am 28.11.2022 lösten wir das, zuerst hoffnungslose, Problem mit der Begrenzung der Monster. Das Problem bestand darin, dass die Tore sich überlagerten und das Spiel den Code für die Drehbewegung der Monster zweimal ausführte, sodass sie einfach aus dem Feld liefen. Somit kann man sagen, dass dies ein Fehler auf Seiten StarLogo’s war. Außerdem haben wir zwei weitere Info-Agenten erstellt, um den Spieler durch das Spiel zu führen. Schließlich haben wir weitere Verfeinerungen durchgeführt und den Code verschönert.
 
 
-## <a name="3"></a>Fazit
+## <a name="fazit"></a>Fazit
 
 Am Anfang wussten wir nicht, wie man Spiele programmiert. Im Internet gibt es unzählige komplett fertig durchgeführte Projekte und wir wollten nicht einfach irgendetwas kopieren. Eine eigene Idee musste her. Nach langer Ideensuche kam uns die Idee dieses Spieles: „Homer im Ohio“.                                             Obwohl Michael und Mohammad vorher keine Erfahrung in Informatik hatten, haben wir uns durch das Projekt gearbeitet. Es gab Momente, wo wir nicht mehr weiterkommen konnten aber es gab auch Momente, wo alles reibungslos funktionierte. Die Probleme konnten wir meist mit einfachen und kreativen Lösungsansätzen lösen. Insgesamt lief die Arbeit gut und in den Stunden arbeiteten wir immer zusammen. So können wir beide alles verstehen. 
 Der Nachteil dieser Arbeitsweise ist, dass sie viel Zeit in Anspruch nimmt und daher weniger effizient ist. 
@@ -124,7 +124,7 @@ Durch unsere grundsätzliche Arbeitsweise hatten wir immer wieder motivierende E
 Das Beste ist, dass unser Projekt abgeschlossen ist und wir etwas Neues gelernt haben.
 
 
-## <a name="4"></a>Eigenständigkeitserklärung
+## <a name="eigenst"></a>Eigenständigkeitserklärung
 
 Hiermit erklären wir, Michael Markwart und Mohammad Rezaei, dass die von uns vorgelegte Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt haben.
 
