@@ -103,7 +103,7 @@ Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen.
 <details> <summary>Sonic</summary>
     
 ![Sonic](https://user-images.githubusercontent.com/111492177/205108744-74437148-80dd-4fc4-aeee-ea78e3feb00e.png)
-
+![Sonic](https://user-images.githubusercontent.com/111492177/205109447-8c1fb54f-1def-4f13-afc7-606b5e03abce.png)
 
 </details>
 
