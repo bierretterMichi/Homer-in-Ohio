@@ -113,6 +113,13 @@ Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen.
 Am 12.9.2022 waren wir bis zum Ende der ersten Informatikstunde mit der Programmierung von Sonic fertig. In der zweiten Stunde versuchten wir den Code zu sortieren, damit es übersichtlicher wird.
 ### <a name="7"></a>19.09.2022 
 Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würfel) sich auf einer gewissen Strecke hin und her bewegen. Ziel hierbei war es, dass Marge und Homer versuchen sollen hindurchzukommen, ohne die Hindernisse zu berühren. Diese Aufgabe stellte sich ebenfalls als äußerst herausfordernd heraus. Bis Ende der zweiten Stunde waren wir damit beschäftigt.
+<details> <summary>Walls</summary>
+
+![image](https://user-images.githubusercontent.com/111492177/205110731-caf57b95-c0bd-4d47-aa78-a6e10cb6eaa1.png)
+
+</details>
+
+
 ### <a name="8"></a>22.09.2022
 Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
 ### <a name="9"></a>06.10.2022
