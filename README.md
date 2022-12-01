@@ -100,7 +100,7 @@ Am 5.09.2022 haben wir weiter an der manuellen Steuerung unserer Agenten gearbei
 
 ### <a name="5"></a>08.09.2022 
 Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen. Die Wände des Labyrinths sollten aus Häusern bestehen. Dies haben wir bis Ende der ersten Informatikstunde geschafft. In der zweiten Stunde riefen wir unseren ersten Agenten, Sonic, der Marge und Homer hindern soll zum Ziel zu kommen, ins Leben. Dabei sollte Sonic schnell um ein Haus rennen und im Falle einer Kollision mit Marge und Homer sollte das Spiel neugestartet werden. Dies stellte sich als leichter heraus als erwartet, da Sonic die eingegebenen Koordinaten zu schnell übernahm, sodass er nicht um das Haus kam. Das lag daran, dass wir zu weit gedacht hatten und am Ende waren es nur zwei Blöcke Code.
-<details> <summary>Steuerung</summary>
+<details> <summary>Sonic</summary>
     
 ![Sonic](https://user-images.githubusercontent.com/111492177/205108744-74437148-80dd-4fc4-aeee-ea78e3feb00e.png)
 
