@@ -70,7 +70,7 @@ Viel Spaß und Erfolg!
 
 </details>
 
-### 22.08.2022
+### <a name="1"></a>22.08.2022
 Am 22.08.2022 haben wir uns in Gruppen aufgeteilt und dabei werden Michael und Mohammad bis zum Ende des Projektes zusammenarbeiten. In der ersten Doppelstunde sammelten wir einige Ideen zu unserem Projekt. Die erste Idee war, einen Roboter mit Hilfe von Lego-Bausätzen zu bauen und diesen schließlich zu programmieren. Dabei hätte er ein Muster auf den Boden malen sollen.
 Die zweite Idee war es ein Spiel zu programmieren. Die grobe Idee war, dass es einen Agenten gibt, der durch ein Labyrinth geht und dabei Münzen sammelt und bis zum Ziel läuft. Nach einigen Überlegung haben wir uns für das Spiel entschieden. Danach haben wir uns die verschiedenen Programme angeschaut, um das Richtige zu finden, mit dem wir gut arbeiten können. Dabei kamen Snap, StarLogoTNG und Greenfoot in Frage. 
 ### 25.08.2022 
