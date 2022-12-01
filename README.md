@@ -124,8 +124,21 @@ Am 19.9.2022 arbeiteten wir am zweiten Hindernis. Dabei sollten die Walls (Würf
 Am 22.09.2022 haben wir Herrn Buhl beim selben Problem um Hilfe gefragt. Herr Buhl erklärte uns das Vorgehen und zeigte einen möglichen Lösungsansatz. Dank seiner Erklärung konnten wir das Problem lösen. In der zweiten Stunde haben wir noch zwei weitere Walls hinzugefügt, sodass wir nun Insgesamt drei Walls hatten, die sich bewegen. Kurz vor Ende des Unterrichts haben wir an Häuserblöcken gearbeitet, dabei haben wir die Abstände zwischen den Häuser optimiert.
 ### <a name="9"></a>06.10.2022
 Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und Homer die hinderlichen Walls überquert haben, werden sie mit zwei Wegen konfrontiert. Der linke Weg führt in eine Sackgasse. Der Weg bis zur Sackgasse ist L-Förmig, sodass man nicht das Ende sehen kann, wo auf den Spieler ein verrückt gewordener Clown wartet, der herauskommen soll, sobald man um die Ecke läuft, um den Spieler auszuschalten und ihm einen Schrecken zu verleihen. Um dies umzusetzen, versuchten wir mit der Smell-Funktion zu arbeiten. Wenn Marge und Homer einen bestimmten Radius um dem Clown erreichen, sollte er aktiviert werden.
+<details> <summary>Unfunktionsfähige und aufwändige Smellfunktion</summary>
+    
+![image](https://user-images.githubusercontent.com/111492177/205112117-89c9711d-1472-48a9-baa5-1ec04070a061.png)
+    
+</details>
+
+
 ### <a name="10"></a>24.10.2022
 Am 24.10.2022 haben wir weiter am Clown gearbeitet. Jedoch erwies die Smell-Funktion sich als sehr aufwändig und fehlerhaft. Deshalb haben wir uns eine andere Methode überlegt. Die Methode sollte darin bestehen, dass kurz vor der L-Ecke ein paar Grasbüschel auf dem Boden platziert sind. Wenn man über diese Grasbüschel läuft, sollte sich der Clown in Bewegung setzen, was sich als äußerst funktionsfähig herausstellte. Später machten wir uns über das nächste Hindernis Gedanken.
+<details> <summary>Grasbüschelfunktion</summary>
+
+![image](https://user-images.githubusercontent.com/111492177/205112555-d8270e57-d66b-4677-be81-445f63dc9b42.png)
+</details>
+
+
 ### <a name="11"></a>03.11.2022
 Am 03.11.2022 haben wir gemerkt, dass die vorher programmierte Funktion von der letzten Stunde nicht gespeichert worden war. Daher verschwendeten wir leider etwas Zeit, um sie wiederherzustellen. Dabei fielen uns ein paar Ideen zur Verbesserung ein. Zum Beispiel, dass der Clown das vorgeschriebene Programm solange wiederholt bis er Marge und Homer aus dem Spiel entfernt. Später haben wir uns überlegt, wie das restliche Labyrinth gebaut werden sollte.
 ### <a name="12"></a>07.11.2022
