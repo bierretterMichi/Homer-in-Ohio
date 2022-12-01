@@ -38,6 +38,9 @@ Viel Spaß und Erfolg!
 | ------ | ------ |
 | Homer | test |
 
+        
+</details>        
+        
 ## <a name="2"></a>Blogeinträge
 
 
