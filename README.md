@@ -53,6 +53,7 @@ Die zweite Idee war es ein Spiel zu programmieren. Die grobe Idee war, dass es e
 Am 25.8.2022 war Mohammad nicht anwesend. Währenddessen hat Michael sich in verschiedene Programme eingearbeitet. Später hat er sich mit den Lernaktivitäten für StarLogoTNG beschäftigt.
 ### 29.8.2022
 Am 29.8.2022 haben wir uns für das Programm StarLogoTNG entschieden. Während Mohammads Abwesenheit hat er eine Skizze von dem Labyrinth gezeichnet. In der ersten Stunde haben wir einen genauen Plan vom Spiel aufgestellt. Dabei sollten es zwei Agenten sein, die bis zum Ziel Münzen sammeln und je mehr Münzen sie sammeln, desto schneller werden sie. Auf ihrem Weg sollten andere Agenten sie aufhalten. Im Falle einer Kollision soll das Spiel neugestartet werden. In der zweiten Stunde haben wir versucht unsere Agenten, Marge und Homer, so zu programmieren, dass man sie manuell steuern kann.
+
 <details>
 <summary>Labyrinth-Skizze- hide </summary>
 <br>
