@@ -20,10 +20,7 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 Viel Spaß und Erfolg!
 
 <details>
-            <summary> Spielobjekte</summary>
-    | Agent | Funktion |
-    | test | test |
-    
+    <summary> Spielobjekte</summary> | Agent | Funktion | 
 
 
 
