@@ -104,6 +104,9 @@ Am 08.09.2022 setzten wir uns das Ziel, den Anfang unseres Labyrinthes zu bauen.
     
 ![Sonic](https://user-images.githubusercontent.com/111492177/205108744-74437148-80dd-4fc4-aeee-ea78e3feb00e.png)
 ![Sonic](https://user-images.githubusercontent.com/111492177/205109447-8c1fb54f-1def-4f13-afc7-606b5e03abce.png)
+https://user-images.githubusercontent.com/111492177/205115697-67af9d2b-ef3a-4828-92d4-fba549a7006b.mp4
+
+
 
 </details>
 
@@ -142,9 +145,15 @@ Am 24.10.2022 haben wir weiter am Clown gearbeitet. Jedoch erwies die Smell-Funk
 ### <a name="11"></a>03.11.2022
 Am 03.11.2022 haben wir gemerkt, dass die vorher programmierte Funktion von der letzten Stunde nicht gespeichert worden war. Daher verschwendeten wir leider etwas Zeit, um sie wiederherzustellen. Dabei fielen uns ein paar Ideen zur Verbesserung ein. Zum Beispiel, dass der Clown das vorgeschriebene Programm solange wiederholt bis er Marge und Homer aus dem Spiel entfernt. Später haben wir uns überlegt, wie das restliche Labyrinth gebaut werden sollte.
 ### <a name="12"></a>07.11.2022
-Am 07.11.2022 ist der Informatik Unterricht ausgefallen und wir konnten deshalb nur eine Stunde ins Programmieren investieren. Wir haben das restliche Labyrinth gebaut. Als nächstes Hindernis sollten zwei Toren gebaut werden und jeweils vor einem Tor sollte eine Frage gestellt werden. Man hat drei Optionen und um die Antwort zu wählen, muss man zu der Option hinlaufen und kollidieren. Wenn man die richtige Antwort wählt, verschwindet das Tor, wenn man aber eine falsche Antwort wählt, muss man das Spiel neu starten.
+Am 07.11.2022 ist der Informatik Unterricht ausgefallen und wir konnten deshalb nur eine Stunde ins Programmieren investieren. Als nächstes Hindernis sollten zwei Tore gebaut und jeweils vor einem Tor sollte eine Frage gestellt werden. Man hat drei Optionen und um die Antwort zu wählen, muss man zu der Option hinlaufen und kollidieren. Wenn man die richtige Antwort wählt, verschwindet das Tor, wenn man aber eine falsche Antwort wählt, muss man das Spiel neu starten.
 ### <a name="13"></a>14.11.2022
 Am 14.11.2022 ist uns aufgefallen, dass die zwei Fragen gleichzeitig erscheinen, so dass es schwieriger wird, sie zu lesen. Deshalb änderten wir es insofern, dass die zweite Frage erst beim verschwinden des ersten Tors erscheint. Später haben wir einen begrenzten Raum im Zentrum unseres Labyrinthes erbaut. Dabei haben wir Tore  als Wände zur Begrenzung benutzt. Dort sollen sich zahlreiche Monster aufhalten und sich frei in zufällige Richtungen bewegen. Dies stellte sich als relativ einfach dar, jedoch war hier die Herausforderung in diesem Gebiet zu behalten. Unser erster Lösungsansatz war, dass sie sich, im Falle einer Kollision mit der Wand, um 100-80° Grad drehen und weiterlaufen sollten. Dennoch konnten sie das Gebiet verlassen.
+<details> <summary>Monster im Zentrum</summary>
+![image](https://user-images.githubusercontent.com/111492177/205114961-594f00b0-baf5-4351-9970-2eb541223ef8.png)
+
+</details>
+
+
 ### <a name="14"></a>17.11.2022
 Am 17.11.2022 bemühten wir uns um die Bearbeitung dieses Problems. Somit war die zweite Idee, das Gebiet anhand der x- und y-Koordinaten einzugrenzen. Sollten die Monster sich der Grenze nähern, sollten sie zwei Schritte zurück gehen, um 90° Grad drehen und weiterlaufen. Wir haben ca. eine Stunde hoffnungslos daran gearbeitet und verschiedene Lösungsansätze ausprobiert. Da uns nicht mehr viel einfiel, haben wir uns auf die Paintball-Funktion fokussiert. Dabei sollen Marge und Homer in der Lage sein die Monster abzuschießen, um an das Ziel zu kommen. Dies ließ sich schnell bearbeiten, gerade weil Michael vorher die Lernaktivität dazu bearbeitet hatte.
 ### <a name="15"></a>21.11.2022
