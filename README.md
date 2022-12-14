@@ -30,7 +30,7 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
     
 | Code | Funktion | 
 | ------ | ------ |
-| ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. Es wird also z.B. getestet, ob W gedrückt wird und wenn dies der Fall ist, läuft Homer vorwärts. Die Geschwindigkeit kann man ändern, indem man die Schrittanzahl vergrößert oder verlkeinert. |
+| ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. Es wird also z.B. getestet, ob W gedrückt wird und wenn dies der Fall ist, läuft Homer vorwärts. Die Geschwindigkeit kann man ändern, indem man die Schrittanzahl vergrößert oder verkleinert. |
 | 
  
 </details>   
