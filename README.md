@@ -52,7 +52,7 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 
 | Code | Funktion | 
 | ------ | ------ |
-| ![image](https://user-images.githubusercontent.com/111492177/207673310-4428bdd4-67b2-4a90-a6e5-d691f1473871.png)
+| ![image](https://user-images.githubusercontent.com/111492177/207673310-4428bdd4-67b2-4a90-a6e5-d691f1473871.png) | ? |
 
     
     
@@ -61,10 +61,21 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 <details>
     <summary> Der verrückte Clown</summary>    
     Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung, um ihn zu zermalmen.
+    
+| Code | Funktion | 
+| ------ | ------ |
+| ![image](https://user-images.githubusercontent.com/111492177/207674089-12e6f2b1-4177-4d93-9b2c-d3c4b8cfb9f6.png) | ? |
+
  </details>   
  <details>
     <summary> Die zwei Fragen</summary>
 
+| Code | Funktion | 
+| ------ | ------ |
+| ![image](https://user-images.githubusercontent.com/111492177/207677719-b8281202-2f3e-474e-b934-e45eb0c23250.png) | Das Programm zählt, wie viele richtige Antworten es gibt. Bevor man sie ausgewählt hat, gibt es, natürlich, nur eine richtige Antwort. Sobald man diese richtige Anwort auswählt, verschwindet sie, sodass es jetzt 0 richtige Antworten gibt. Sobald dies geschieht, verschwindet das Tor. |
+    
+
+    
 </details>
 <details>
     <summary> Die Monster</summary>
