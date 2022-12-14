@@ -40,7 +40,11 @@ Viel Spaß und Erfolg!
  <details>
     <summary> Die zwei Fragen</summary>
 
-</details>   
+</details>
+<details>
+    <summary> Die Monster</summary>
+
+</details> 
 
  
  | Agent | Funktion |
