@@ -20,7 +20,7 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 Viel Spaß und Erfolg!
 
 ## <a name="konzept"></a>Wichtige Objekte
-In diesem Abschnitt werden die wichtigsten Agenten des Spiels erklärt
+In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels erklärt.
 
 <details>
     <summary> Homer</summary>    
