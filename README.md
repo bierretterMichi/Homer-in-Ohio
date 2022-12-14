@@ -25,8 +25,11 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 <details>
     <summary> Homer</summary>    
     Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen.
-    | Code | Funktion | | ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen |
- </details>   
+    | Code | Funktion | 
+    | ------ | ------ |
+    | ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. |
+ 
+</details>   
 <details>
     <summary> Sonic</summary>    
     Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen.
