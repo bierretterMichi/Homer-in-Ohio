@@ -37,6 +37,8 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 <details>
     <summary> Sonic</summary>    
     Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen.
+
+
 | Code | Funktion | 
 | ------ | ------ |
 | ![image](https://user-images.githubusercontent.com/111492177/207672300-c8200085-afa3-48d7-81f4-b0517d4f9a13.png) | Das "Forward 18" und "Left 90" werden in Dauerschleife abgespielt, sodass Sonic immer im Kreis um die beiden Häuser läuft. Es ist sehr wenig, aber effektiver Code. |
