@@ -27,7 +27,7 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
     Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen.
     | Code | Funktion | 
     | ------ | ------ |
-    | ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. |
+| ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. |
  
 </details>   
 <details>
