@@ -49,6 +49,14 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 <details>
     <summary> Die drei Würfel</summary>    
     Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden.
+
+| Code | Funktion | 
+| ------ | ------ |
+| ![image](https://user-images.githubusercontent.com/111492177/207673310-4428bdd4-67b2-4a90-a6e5-d691f1473871.png)
+
+    
+    
+    
  </details>      
 <details>
     <summary> Der verrückte Clown</summary>    
