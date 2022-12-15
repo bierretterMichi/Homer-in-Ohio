@@ -65,7 +65,7 @@ Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Eck
     
 | Code | Funktion | 
 | ------ | ------ |
-| ![image](https://user-images.githubusercontent.com/111492177/207674089-12e6f2b1-4177-4d93-9b2c-d3c4b8cfb9f6.png) | ? |
+| ![image](https://user-images.githubusercontent.com/111492177/207674089-12e6f2b1-4177-4d93-9b2c-d3c4b8cfb9f6.png) | Die Bewegung des Clowns beinhaltet genau dieselbe Funktion, wie die der Würfel, mit der Bedingung, dass der Clown sich erst in Bewegung setzt, sobald vor der Ecke mindestens einer der Grasbüschel zerstört wird. |
 
  </details>   
  <details>
