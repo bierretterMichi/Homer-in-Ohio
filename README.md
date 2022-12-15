@@ -186,7 +186,7 @@ https://user-images.githubusercontent.com/111492177/205116560-5059c122-3a5b-40a9
 
 
 ### <a name="9"></a>06.10.2022
-Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und Homer die hinderlichen Walls überquert haben, werden sie mit zwei Wegen konfrontiert. Der linke Weg führt in eine Sackgasse. Der Weg bis zur Sackgasse ist L-Förmig, sodass man nicht das Ende sehen kann, wo auf den Spieler ein verrückt gewordener Clown wartet, der herauskommen soll, sobald man um die Ecke läuft, um den Spieler auszuschalten und ihm einen Schrecken zu verleihen. Um dies umzusetzen, versuchten wir mit der Smell-Funktion zu arbeiten. Wenn Marge und Homer einen bestimmten Radius um dem Clown erreichen, sollte er aktiviert werden.
+Am 06.10.2022 haben wir an dem zweiten Hindernis gearbeitet. Nachdem Marge und Homer die hinderlichen Walls überquert haben, werden sie mit zwei Wegen konfrontiert. Der linke Weg führt in eine Sackgasse. Der Weg bis zur Sackgasse ist L-Förmig, sodass man nicht das Ende sehen kann, wo auf den Spieler ein verrückt gewordener Clown wartet, der herauskommen soll, sobald man um die Ecke läuft, um den Spieler auszuschalten und ihm einen Schrecken zu verleihen. Um dies umzusetzen, versuchten wir mit der Smell-Funktion zu arbeiten. Wenn Marge und Homer einen bestimmten Radius um den Clown erreichen, sollte er aktiviert werden.
 <details> <summary>Unfunktionsfähige und aufwändige Smellfunktion</summary>
     
 ![image](https://user-images.githubusercontent.com/111492177/205112117-89c9711d-1472-48a9-baa5-1ec04070a061.png)
