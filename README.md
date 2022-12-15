@@ -112,7 +112,7 @@ Die Monster befinden sich im letzten Part des Spiels. Sie bewachen die Umgebung 
 | ------ | ------ | ------ | ------ | ------ |     
 | [12.09.2022](#6) | [19.09.2022](#7) | [22.09.2022](#8) | [06.09.2022](#9) | [24.10.2022](#10) |
 | [03.10.2022](#11) | [07.11.2022](#12) | [14.11.2022](#13) | [17.11.2022](#14) | [21.11.2022](#15) |
-| [28.11.2022](#16) |
+| [28.11.2022](#16) | [Die restlichen Stunden](#17) |
 
 </details>
 
@@ -247,6 +247,8 @@ https://user-images.githubusercontent.com/111492177/207943244-402af528-bd4a-41dd
 Am 21.11.2022 überlegten wir uns, dass Marge und Homer die Paintball-Funktion erst erlaubt wird, nachdem sie durch das zweite Tor gegangen sind. Außerdem soll ein Agent, namens Info, sie über die Funktion am Tor informieren. Da die Paintballs nach dem Abwerfen schweben, sollen sie verschwinden, wenn sie mit den Toren kollidieren, damit sie nicht ewig weiterfliegen. Das andere Problem, welches wir am Anfang hatten war, dass Marge und Homer durch die Häuser laufen konnten. Dies wollten wir verhindern, indem wir sie, im Falle einer Kollision mit den Häusern, zwei Schritte zurückgehen lassen. Das galt jedoch oft nur für einen Agenten, da sie nebeneinander liefen und somit manchmal nur ein Agent von beiden zurückgestoßen wurde, weshalb wir uns entschieden haben, dass wir Homer als Hauptagent haben und er alleine durch das Labyrinth läuft.
 ### <a name="16"></a>28.11.2022
 Am 28.11.2022 lösten wir das, zuerst hoffnungslose, Problem der Eingrenzung der Monster. Das Problem bestand darin, dass die Tore sich überlagerten und das Spiel den Code für die Drehbewegung der Monster zweimal ausführte, sodass sie einfach aus dem Feld liefen. Somit kann man sagen, dass dies ein Fehler auf Seiten StarLogo’s war. Außerdem haben wir zwei weitere Info-Agenten erstellt, um den Spieler durch das Spiel zu führen. Schließlich haben wir weitere Verfeinerungen durchgeführt und den Code verschönert.
+### <a name="17"></a>Die restlichen Stunden
+Die restlichen Stunden sind leider ausgefallen, da Herr Buhl krank war. Wir nutzten die Zeit um uns voll auf die Blogeinträge und das Erstellen der Projektseite zu fokussieren.
 
 
 ## <a name="fazit"></a>Fazit
