@@ -59,7 +59,7 @@ Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und s
 
 | Code | Funktion | 
 | ------ | ------ |
-| ![image](https://user-images.githubusercontent.com/111492177/207673310-4428bdd4-67b2-4a90-a6e5-d691f1473871.png) | Damit die Würfel sich in einer Dauerschleife hin- und herbewegen, arbeiteten wir mit der Ifelse Funktion. Als Test haben wir einen Remainder gesetzt. Dieser hat die Funktion die gezählten Schritte durch 12 zu teilen. Solange der Rest weniger als 6 ist, bewegen die Würfel sich vorwärts, wenn aber der Rest größer als 6 ist bewegen sie sich rückwärts. Der Schwierigkeitsgrad dieses Moduls kann verändert werden, indem man die Geschwindigkeit der "steps" bei "forward" und "back" verändert. ![image](https://user-images.githubusercontent.com/111492177/207927163-15ee88e4-4e1d-4d67-ba75-38d1d7b8788e.png) |
+| ![image](https://user-images.githubusercontent.com/111492177/207937214-c7347392-90ef-4535-a414-55aca63af432.png) | Damit die Würfel sich in einer Dauerschleife hin- und herbewegen, arbeiteten wir mit der Ifelse Funktion. Als Test haben wir einen Remainder gesetzt. Dieser hat die Funktion die gezählten Schritte durch 12 zu teilen. Solange der Rest weniger als 6 ist, bewegen die Würfel sich vorwärts, wenn aber der Rest größer als 6 ist bewegen sie sich rückwärts. Der Schwierigkeitsgrad dieses Moduls kann verändert werden, indem man die Geschwindigkeit der "steps" bei "forward" und "back" verändert. ![image](https://user-images.githubusercontent.com/111492177/207927163-15ee88e4-4e1d-4d67-ba75-38d1d7b8788e.png) |
 
 
  </details>      
