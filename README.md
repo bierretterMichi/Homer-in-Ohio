@@ -5,10 +5,10 @@
 https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb-9723-dcf5b354c669.mp4
 
 - [Einführung](#einf)
-- [1. Wichtige Objekte](#konzept)
-- [2. Blogeinträge](#blog)
-- [3. Fazit](#fazit)
-- [4. Eigenständigkeitserklärung](#eigenst)
+- [Wichtige Objekte](#konzept)
+- [Blogeinträge](#blog)
+- [Fazit](#fazit)
+- [Eigenständigkeitserklärung](#eigenst)
 
 ## <a name="einf"></a>Einführung
 
@@ -26,14 +26,12 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
     <summary> Homer</summary>  
     
     Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen.
-
-    
-    
+   
     
 | Code | Funktion | 
 | ------ | ------ |
 | ![image](https://user-images.githubusercontent.com/111492177/207665527-5afd29e9-d634-4ff6-944d-b6967524de1e.png) (Abb.1) | Man steuert Homer mit den Tasten WASD, was recht selbsterklärend ist; Mit A und D kann man sich drehen und mit W und S vor- bzw. rückwärts laufen. Es wird also z.B. getestet, ob W gedrückt wird und wenn dies der Fall ist, läuft Homer vorwärts. Die Geschwindigkeit kann man ändern, indem man die Schrittanzahl vergrößert oder verkleinert. |
-| ![image](https://user-images.githubusercontent.com/111492177/207668070-fef8f8f7-6e65-4f5c-8b2f-7fd252efa06b.png) (Abb.2) ![image](https://user-images.githubusercontent.com/111492177/207668520-f842b49f-a8c1-4d6e-97c6-fe3393f1e754.png) (Abb.3) ![image](https://user-images.githubusercontent.com/111492177/207669611-a0420f9a-1656-4a9a-b0bd-fe852e7e87fc.png) (Abb.4) | Das ist der Code für das Erscheinen der Paintballs. Sobald man Leertaste drückt, wirft Homer einen Paintball, der mit der Hatch-Funktion in's Leben gerufen wird. Die Bewegung des Paintballs sieht so aus, dass er sich konstant mit einer Geschwindigkeit von 3 bewegt und zufällig entweder 2 Grad nach links oder 2 Grad nach rechts ausrichtet. |
+| ![image](https://user-images.githubusercontent.com/111492177/207668070-fef8f8f7-6e65-4f5c-8b2f-7fd252efa06b.png) (Abb.2)                                              ![image](https://user-images.githubusercontent.com/111492177/207668520-f842b49f-a8c1-4d6e-97c6-fe3393f1e754.png) (Abb.3)                                                ![image](https://user-images.githubusercontent.com/111492177/207669611-a0420f9a-1656-4a9a-b0bd-fe852e7e87fc.png) (Abb.4) | Das ist der Code für das Erscheinen der Paintballs. Sobald man Leertaste drückt, wirft Homer einen Paintball, der mit der Hatch-Funktion in's Leben gerufen wird. Die Bewegung des Paintballs sieht so aus, dass er sich konstant mit einer Geschwindigkeit von 3 bewegt und zufällig entweder 2 Grad nach links oder 2 Grad nach rechts ausrichtet. |
  
 </details>   
 <details>
