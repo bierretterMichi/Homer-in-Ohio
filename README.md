@@ -232,6 +232,17 @@ Am 14.11.2022 ist uns aufgefallen, dass die zwei Fragen gleichzeitig erscheinen,
 
 ### <a name="14"></a>17.11.2022
 Am 17.11.2022 bemühten wir uns um die Bearbeitung dieses Problems. Somit war die zweite Idee, das Gebiet anhand der x- und y-Koordinaten einzugrenzen. Sollten die Monster sich der Grenze nähern, sollten sie zwei Schritte zurück gehen, um 90° Grad drehen und weiterlaufen. Wir haben ca. eine Stunde hoffnungslos daran gearbeitet und verschiedene Lösungsansätze ausprobiert. Da uns nicht mehr viel einfiel, haben wir uns auf die Paintball-Funktion fokussiert. Dabei sollen Marge und Homer in der Lage sein die Monster abzuschießen, um an das Ziel zu kommen. Dies ließ sich schnell bearbeiten, gerade weil Michael vorher die Lernaktivität dazu bearbeitet hatte.
+
+<details> <summary> Paintballs schießen</summary>
+
+
+https://user-images.githubusercontent.com/111492177/207943244-402af528-bd4a-41dd-b569-449ba1f5bdae.mp4
+
+
+
+</details>
+
+
 ### <a name="15"></a>21.11.2022
 Am 21.11.2022 überlegten wir uns, dass Marge und Homer die Paintball-Funktion erst erlaubt wird, nachdem sie durch das zweite Tor gegangen sind. Außerdem soll ein Agent, namens Info, sie über die Funktion am Tor informieren. Da die Paintballs nach dem Abwerfen schweben, sollen sie verschwinden, wenn sie mit den Toren kollidieren, damit sie nicht ewig weiterfliegen. Das andere Problem, welches wir am Anfang hatten war, dass Marge und Homer durch die Häuser laufen konnten. Dies wollten wir verhindern, indem wir sie, im Falle einer Kollision mit den Häusern, zwei Schritte zurückgehen lassen. Das galt jedoch oft nur für einen Agenten, da sie nebeneinander liefen und somit manchmal nur ein Agent von beiden zurückgestoßen wurde, weshalb wir uns entschieden haben, dass wir Homer als Hauptagent haben und er alleine durch das Labyrinth läuft.
 ### <a name="16"></a>28.11.2022
