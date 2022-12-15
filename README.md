@@ -6,6 +6,7 @@ https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb
 
 - [Einführung](#einf)
 - [Wichtige Objekte](#konzept)
+- [Zu Starlogo](#starlogo)
 - [Blogeinträge](#blog)
 - [Fazit](#fazit)
 - [Eigenständigkeitserklärung](#eigenst)
@@ -23,9 +24,9 @@ Viel Spaß und Erfolg!
 In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels erklärt.
 
 <details>
-    <summary> Homer</summary>  
-    
-    Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen.
+    <summary> Homer</summary>
+
+Homer ist der Hauptcharakter, der vom Spieler gesteuert wird. Er muss versuchen, die Hindernisse zu überwinden und unversehrt das Labyrinth zu durchqueren, um zu seiner Frau Marge zu gelangen.
    
     
 | Code | Funktion | 
@@ -35,9 +36,10 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
  
 </details>   
 <details>
-    <summary> Sonic</summary>    
+    <summary> Sonic</summary>
+
     
-    Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen.
+Sonic ist das erste Monster, das sich Homer in den Weg stellt, oder wohl eher läuft. Er rennt die ganze Zeit überaus schnell um einen Häuserblock herum, sodass es schwierig werden kann ihm auszuweichen.
 
 
 | Code | Funktion | 
@@ -89,7 +91,16 @@ Die Monster befinden sich im letzten Part des Spiels. Sie bewachen die Umgebung 
 | ![image](https://user-images.githubusercontent.com/111492177/207915736-9a78e24a-3783-4259-bb4b-1bf4536d725c.png) | Der spannende Teil liegt bei den Kollisionen. Hier wird bei einer Berührung der Monster mit einem Tor nur ihre Blickrichtung geändert. Um sicher zu gehen, dass die Monster sich immer um einen zufälligen Wert zwischen 170° und 190° drehen, um Einfältigkeit in der Bewegung der Masse zu vermeiden, werden auf die 180° zuerst die bereits vorhandene Blickrichtungsgradzahl und dazu ein zufälliger Wert zwischen -10° und 20° addiert. |
 
 </details>
-    
+
+
+## <a name="starlogo"></a>Zu Starlogo
+
+Hier eine kurze Erklärung zu StarlogoTNG:
+
+    Mit "StarLogo TNG" können Sie ein oder mehrere digitale Objekte in einer wunderschönen 3D-Welt bewegen - zuerst war es eine Schildkröte. Sie müssen Aktionen mit einer speziellen Programmiersprache vorab eingeben. Diese Logo-basierte Programmiersprache ähnelt einem einfachen Prinzip der Modularität. Was zunächst schwierig erschien, wurde dank der Online-Hilfe und Tutorials schnell zum Kinderspiel, da es Unmengen an einzelnen Bausteinen gibt.
+    Ziehen Sie einzelne Befehlsblöcke per Drag & Drop auf die Oberfläche, verbinden Sie verschiedene Blöcke und verwenden Sie die Tastatur, um einzelne Eigenschaften zu ändern. Dank dieser innovativen grafischen Programmiersprache erstellen Sie mit wenigen Mausklicks eigene Bewegungsabläufe für Ihre Schildkröte. Auch die Umgebung kann im Geländeeditor nach Belieben verändert werden. Das Ganze sieht nicht nur hübsch aus, sondern lässt sich auch zur Berechnung von Bewegungsabläufen in dezentralen Systemen, etwa bei mehreren Autos im Verkehr, nutzen.
+
+
         
 ## <a name="blog"></a>Blogeinträge
 
