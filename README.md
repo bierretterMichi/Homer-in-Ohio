@@ -243,6 +243,9 @@ Das Beste ist, dass unser Projekt abgeschlossen ist und wir etwas Neues gelernt 
 Mit "StarLogo TNG" können Sie ein oder mehrere digitale Objekte in einer wunderschönen 3D-Welt bewegen - zuerst war es eine Schildkröte. Sie müssen Aktionen mit einer speziellen Programmiersprache vorab eingeben. Diese Logo-basierte Programmiersprache ähnelt einem einfachen Prinzip der Modularität. Was zunächst schwierig erschien, wurde dank der Online-Hilfe und Tutorials schnell zum Kinderspiel, da es Unmengen an einzelnen Bausteinen gibt.
 Ziehen Sie einzelne Befehlsblöcke per Drag & Drop auf die Oberfläche, verbinden Sie verschiedene Blöcke und verwenden Sie die Tastatur, um einzelne Eigenschaften zu ändern. Dank dieser innovativen grafischen Programmiersprache erstellen Sie mit wenigen Mausklicks eigene Bewegungsabläufe für Ihre Schildkröte. Auch die Umgebung kann im Geländeeditor nach Belieben verändert werden. Das Ganze sieht nicht nur hübsch aus, sondern lässt sich auch zur Berechnung von Bewegungsabläufen in dezentralen Systemen, etwa bei mehreren Autos im Verkehr, nutzen.
 
+https://www.chip.de/downloads/StarLogo-The-Next-Generation_21024590.html#:~:text=StarLogo%20%2D%20The%20Next%20Generation%20Mit,einer%20speziellen%20Programmiersprache%20vorher%20eingeben.
+
+
 </details>
 
 ## <a name="eigenst"></a>Eigenständigkeitserklärung
