@@ -48,8 +48,8 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 
  </details>   
 <details>
-    <summary> Die drei Würfel</summary>    
-    
+    <summary> Die drei Würfel</summary>
+
 Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden.
 
 | Code | Funktion | 
