@@ -90,7 +90,7 @@ Die Monster befinden sich im letzten Part des Spiels. Sie bewachen die Umgebung 
     
 | Code | Funktion | 
 | ------ | ------ |
-| ![image](https://user-images.githubusercontent.com/111492177/207914819-931738dd-2f06-4ee0-8637-0f165bb3fc83.png) | Die Bewegung der Monster in der Mitte erscheint erstmal sehr unspäktakulär. Klar: sie bewegen sich einfach konstant mit einer Geschwindigkeit von  2 vorwärts. |
+| ![image](https://user-images.githubusercontent.com/111492177/207934786-f5ff3255-f8bf-4d59-a09b-9c1f08ef3fad.png) | Sobald die zweite richtige Antwort gewählt wird, setzen sich die Monster in Bewegung und laufen konstant mit einer Geschwindigkeit von 2 durch den eingegrenzten Bereich. |
 | ![image](https://user-images.githubusercontent.com/111492177/207915736-9a78e24a-3783-4259-bb4b-1bf4536d725c.png) | Der spannende Teil liegt bei den Kollisionen. Hier wird bei einer Berührung der Monster mit einem Tor nur ihre Blickrichtung geändert. Um sicher zu gehen, dass die Monster sich immer um einen zufälligen Wert zwischen 170° und 190° drehen, um Einfältigkeit in der Bewegung der Masse zu vermeiden, werden auf die 180° zuerst die bereits vorhandene Blickrichtungsgradzahl und dazu ein zufälliger Wert zwischen -10° und 20° addiert. |
 
 </details>
