@@ -95,12 +95,13 @@ Die Monster befinden sich im letzten Part des Spiels. Sie bewachen die Umgebung 
 
 ## <a name="starlogo"></a>Zu Starlogo
 
-Hier eine kurze Erklärung zu StarlogoTNG:
+<details>
+    <summary> Hier eine kurze Erklärung zu StarlogoTNG:</summary>
 
-    Mit "StarLogo TNG" können Sie ein oder mehrere digitale Objekte in einer wunderschönen 3D-Welt bewegen - zuerst war es eine Schildkröte. Sie müssen Aktionen mit einer speziellen Programmiersprache vorab eingeben. Diese Logo-basierte Programmiersprache ähnelt einem einfachen Prinzip der Modularität. Was zunächst schwierig erschien, wurde dank der Online-Hilfe und Tutorials schnell zum Kinderspiel, da es Unmengen an einzelnen Bausteinen gibt.
-    Ziehen Sie einzelne Befehlsblöcke per Drag & Drop auf die Oberfläche, verbinden Sie verschiedene Blöcke und verwenden Sie die Tastatur, um einzelne Eigenschaften zu ändern. Dank dieser innovativen grafischen Programmiersprache erstellen Sie mit wenigen Mausklicks eigene Bewegungsabläufe für Ihre Schildkröte. Auch die Umgebung kann im Geländeeditor nach Belieben verändert werden. Das Ganze sieht nicht nur hübsch aus, sondern lässt sich auch zur Berechnung von Bewegungsabläufen in dezentralen Systemen, etwa bei mehreren Autos im Verkehr, nutzen.
+Mit "StarLogo TNG" können Sie ein oder mehrere digitale Objekte in einer wunderschönen 3D-Welt bewegen - zuerst war es eine Schildkröte. Sie müssen Aktionen mit einer speziellen Programmiersprache vorab eingeben. Diese Logo-basierte Programmiersprache ähnelt einem einfachen Prinzip der Modularität. Was zunächst schwierig erschien, wurde dank der Online-Hilfe und Tutorials schnell zum Kinderspiel, da es Unmengen an einzelnen Bausteinen gibt.
+Ziehen Sie einzelne Befehlsblöcke per Drag & Drop auf die Oberfläche, verbinden Sie verschiedene Blöcke und verwenden Sie die Tastatur, um einzelne Eigenschaften zu ändern. Dank dieser innovativen grafischen Programmiersprache erstellen Sie mit wenigen Mausklicks eigene Bewegungsabläufe für Ihre Schildkröte. Auch die Umgebung kann im Geländeeditor nach Belieben verändert werden. Das Ganze sieht nicht nur hübsch aus, sondern lässt sich auch zur Berechnung von Bewegungsabläufen in dezentralen Systemen, etwa bei mehreren Autos im Verkehr, nutzen.
 
-
+</details>
         
 ## <a name="blog"></a>Blogeinträge
 
