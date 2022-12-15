@@ -20,6 +20,9 @@ Hast du dich jedoch für den richtigen Weg entschieden, stehst du jetzt vor zwei
 
 Viel Spaß und Erfolg!
 
+Hier kannst du den StarlogoTNG Installer und das Homer in Ohio Projekt downloaden:
+https://www.mediafire.com/folder/yhre6hm9z1wijam,b4tsycygr2izwdp/shared
+
 ## <a name="konzept"></a>Wichtige Objekte
 In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels erklärt.
 
