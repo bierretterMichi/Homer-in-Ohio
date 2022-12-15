@@ -5,6 +5,7 @@
 https://user-images.githubusercontent.com/111492177/204910169-c294b6ca-6462-4ccb-9723-dcf5b354c669.mp4
 
 - [Einführung](#einf)
+- [Regeln und Ziele](#regeln)
 - [Wichtige Objekte](#konzept)
 - [Blogeinträge](#blog)
 - [Fazit](#fazit)
@@ -22,6 +23,11 @@ Viel Spaß und Erfolg!
 
 Hier kannst du den StarlogoTNG Installer und das Homer in Ohio Projekt downloaden:
 https://www.mediafire.com/folder/yhre6hm9z1wijam,b4tsycygr2izwdp/shared
+
+## <a name="regeln"></a>Regeln und Ziele
+
+Das Spiel "Homer in Ohio" verweist auf keine expliziten Regeln. Der Spieler ist also frei zu entscheiden, wobei er das Ziel zu überleben hat, um Marge aus dem Feuer zu retten. Wichtig ist die Anweisungen vom Info-Bär zu folgen.
+
 
 ## <a name="konzept"></a>Wichtige Objekte
 In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels erklärt.
