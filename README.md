@@ -50,19 +50,18 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
 <details>
     <summary> Die drei Würfel</summary>    
     
-    Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden.
+Die drei Würfel bewegen sich die ganze Zeit auf einer Strecke hin und her und sind sehr groß, weswegen man im richtigen Moment hindurchlaufen sollte, um nicht zermalmt zu werden.
 
 | Code | Funktion | 
 | ------ | ------ |
 | ![image](https://user-images.githubusercontent.com/111492177/207673310-4428bdd4-67b2-4a90-a6e5-d691f1473871.png) | ? |
 
-    
-    
-    
+
  </details>      
 <details>
     <summary> Der verrückte Clown</summary>    
-    Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung, um ihn zu zermalmen.
+    
+Der verrückt gewordene Clown ist sehr hinterhältig. Sobald er Homer um die Ecke kommen sieht, setzt er seinen schweren Körper in Bewegung, um ihn zu zermalmen.
     
 | Code | Funktion | 
 | ------ | ------ |
@@ -71,34 +70,25 @@ In diesem Abschnitt werden Code und Funktion der wichtigsten Agenten des Spiels 
  </details>   
  <details>
     <summary> Die zwei Fragen</summary>
+
 Die beiden Fragen sind vom Inhalt her sogenannte "Idiotenfragen". Es gibt zwei Fragen, jeweils drei Antworten und jeweils eine richtige Antwort. Wenn man eine falsche Antwort auswählt, stirbt Homer und wird wieder an den Anfang des Labyrinths gebracht. 
     
 | Code | Funktion | 
 | ------ | ------ |
 | ![image](https://user-images.githubusercontent.com/111492177/207677719-b8281202-2f3e-474e-b934-e45eb0c23250.png) | Das Programm zählt, wie viele richtige Antworten es gibt. Bevor man sie ausgewählt hat, gibt es, natürlich, nur eine richtige Antwort. Sobald man diese richtige Anwort auswählt, verschwindet sie, sodass es jetzt 0 richtige Antworten gibt. Sobald dies geschieht, verschwindet das Tor. |
-    
-
-    
+  
 </details>
 <details>
     <summary> Die Monster</summary>
 
+Die Monster befinden sich im letzten Part des Spiels. Sie bewachen die Umgebung um das Feuer herum. Diese Umgebung ist von Wänden eingegrenzt, durch welche die Monster nicht hindurchlaufen können.
+    
 | Code | Funktion | 
 | ------ | ------ |
 | ![image](https://user-images.githubusercontent.com/111492177/207914819-931738dd-2f06-4ee0-8637-0f165bb3fc83.png) | Die Bewegung der Monster in der Mitte erscheint erstmal sehr unspäktakulär. Klar: sie bewegen sich einfach konstant mit einer Geschwindigkeit von  2 vorwärts. |
 | ![image](https://user-images.githubusercontent.com/111492177/207915736-9a78e24a-3783-4259-bb4b-1bf4536d725c.png) | Der spannende Teil liegt bei den Kollisionen. Hier wird bei einer Berührung der Monster mit einem Tor nur ihre Blickrichtung geändert. Um sicher zu gehen, dass die Monster sich immer um einen zufälligen Wert zwischen 170° und 190° drehen, um Einfältigkeit in der Bewegung der Masse zu vermeiden, werden auf die 180° zuerst die bereits vorhandene Blickrichtungsgradzahl und dazu ein zufälliger Wert zwischen -10° und 20° addiert. |
 
 </details>
-<details>
-    <summary> Infobären</summary>
-
-    | Code | Funktion | 
-| ------ | ------ |
-|
-</details> 
-
- 
-
     
         
 ## <a name="blog"></a>Blogeinträge
